@@ -1,2 +1,2 @@
 # hacktoberfest
-made my akash.k
+made by akash.k
